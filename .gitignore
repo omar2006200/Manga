@@ -1,0 +1,4 @@
+downloads/
+subscribers.json
+__pycache__/
+*.pyc
