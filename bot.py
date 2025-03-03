@@ -9,7 +9,7 @@ from flask import Flask
 from threading import Thread
 
 # ---- إعدادات البوت ----
-TOKEN = "7602453003:AAGBMn4AvgsWmShuIujlYKcWBxdjpMdKAyw"  # ضع التوكن هنا
+TOKEN = "7602453003:AAHrMViohEK_GzX_eVJng_C8LeahvdVRYyM"  # ضع التوكن هنا
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 
 app = Flask(__name__)
